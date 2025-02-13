@@ -16,6 +16,7 @@ These are the things you'll find in my repos OR I use⚙️\
 ![Adapter-Transformers](https://img.shields.io/badge/Adapter--Transformers-0088CC?logo=huggingface&logoColor=white)
 ![Flask-SQLAlchemy](https://img.shields.io/badge/Flask--SQLAlchemy-000000?logo=flask&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-009688)
 
 
 
